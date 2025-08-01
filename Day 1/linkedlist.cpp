@@ -10,7 +10,6 @@ int main()
     obj->append(50);
     obj->append(16);
     obj->deletenode(3);
-    
     obj->print();
     return 0;
 }
